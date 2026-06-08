@@ -31,6 +31,8 @@ CS351 是一門教授計算機科學基礎與應用的課程，內容涵蓋程�
 
 - `paul33818236.github.io`：https://github.com/paul33818236/paul33818236.github.io.git
 
+- `11402_CS351_Assignment2-StudentGradeCalculator`：https://github.com/paul33818236/11402_CS351_Assignment2-StudentGradeCalculator.git
+
 
 
 
